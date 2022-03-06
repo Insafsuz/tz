@@ -1,0 +1,11 @@
+// BOOKS
+
+export const BOOKS_GET_SUCCESS = 'BOOKS_GET_SUCCESS'
+export const BOOKS_GET_REQUEST = 'BOOKS_GET_REQUEST'
+export const BOOKS_GET_ERROR = 'BOOKS_GET_ERROR'
+export const BOOKS_CATEGORY = 'BOOKS_CATEGORY'
+export const BOOKS_SORT = 'BOOKS_SORT'
+export const BOOKS_SEARCH = 'BOOKS_SEARCH'
+export const BOOKS_LOAD_MORE = 'BOOKS_LOAD_MORE'
+
+// =====
